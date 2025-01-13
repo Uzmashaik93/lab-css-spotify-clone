@@ -33,6 +33,7 @@ body {
 
 .navbar ul {
   display: flex;
+  flex-wrap: wrap;
   list-style: none;
   padding-top: 20px;
 }
@@ -88,6 +89,7 @@ body {
 
 .specs {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-around;
 }
 .specs img {
@@ -138,6 +140,7 @@ body {
 
 .spotify-overview {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   margin: auto 125px;
 }
